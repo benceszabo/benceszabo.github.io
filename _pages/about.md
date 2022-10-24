@@ -12,6 +12,7 @@ I am a Ph.D. Candidate in Economics at Bocconi University in Milan, starting my 
 
 This webpage contains information about how my research is developing, and whatever else I find interesting to add going forward.
 
+CURRENTLY UNDER CONSTRUCTION, please visit [this site](http://benceszabo.com) instead
 
 Useful links
 ======
