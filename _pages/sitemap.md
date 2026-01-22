@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 - [Home](/)
-- [Projects](/projects/)
+- [Research](/research/)
 - [Teaching](/teaching/)
 - [CV](/cv/)
