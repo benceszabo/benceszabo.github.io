@@ -12,13 +12,14 @@ You can download a PDF version of my CV [here](/files/cv.pdf).
 ## Current Positions
 
 **Corvinus University of Budapest, Institute of Economics**  
-*Assistant Professor* (2022–present)
+*Assistant Professor* (2023–present)
+Teaching econometrics, supervising empirical projects.
 
-**National Bank of Hungary**  
-*Senior Economic Analyst* (2022–present)  
+**National Bank of Hungary, Department of Applied Research and Stress Test**  
+*Senior Economic Analyst* (2024–present)  
 Working on topics related to credit risk.
 
----
+<!-- ---
 
 ## Professional Experience
 
@@ -100,3 +101,4 @@ Working on topics related to credit risk.
 ## References
 
 G. I. P. Ottaviano, Joseph-Simon Görlach, Francesco C. Billari, Guido E. Tabellini
+ -->
