@@ -13,10 +13,12 @@ You can download a PDF version of my CV [here](/files/cv.pdf).
 
 **Corvinus University of Budapest, Institute of Economics**  
 *Assistant Professor* (2023–present)
+
 Teaching econometrics, supervising empirical projects.
 
 **National Bank of Hungary, Department of Applied Research and Stress Test**  
-*Senior Economic Analyst* (2024–present)  
+*Senior Economic Analyst* (2024–present)
+
 Working on topics related to credit risk.
 
 <!-- ---
